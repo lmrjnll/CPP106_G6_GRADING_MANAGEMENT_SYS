@@ -2,4 +2,4 @@
 
 - CPP106
 - Group 5
-(Grading Management System)
+- Grading Management System

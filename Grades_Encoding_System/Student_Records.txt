@@ -1,0 +1,1 @@
+Student Name: Aug Ust, Student No.: 23, Math: 90, Science: 98.6, Filipino: 75.1, English: 77, History: 89, Average: 85.94
